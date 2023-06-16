@@ -1,6 +1,13 @@
-# Algorithms
-Problems and solutions given in Algorithm and Analysis course.
 
-Travel Salesman Problem with Java
-Knapsack Problem with Java
-Warehouse Location Problem with Python
+# Algorithms
+
+Solutions and algorithms for various problems.
+
+### Java
+
+Travel Salesman Problem
+Knapsack Problem
+
+### Python
+
+Warehouse Location Problem
